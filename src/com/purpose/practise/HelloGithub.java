@@ -6,7 +6,7 @@ public class HelloGithub {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Github!!");
 		System.out.println("second commit！！！！");
-		System.out.println("Fedora success!!!"));
+		System.out.println("Fedora success!!!");
 	}
 
 }
